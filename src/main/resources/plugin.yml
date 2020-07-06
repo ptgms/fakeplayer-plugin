@@ -1,0 +1,10 @@
+name: FakePlayer
+version: ${project.version}
+main: ptgms.industries.pl1.Pl1
+api-version: 1.16
+
+commands:
+  joinas:
+    description: Join an fake player. Requires OP.
+  sayas:
+    description: Say something as another player in Chat. Requires OP.
